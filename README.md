@@ -4,7 +4,7 @@ COURSE CURRICULUM:
 
  - Unit Testing and Nunit
  - API Testing and REST
- - ## Selenium-Basics
+ - ## Selenium Basics
  - Selenium Advanced and POM
  - Appium Desktop Testing
  - Appium Mobile Testing
